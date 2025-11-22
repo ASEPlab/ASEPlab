@@ -11,7 +11,7 @@ email: hchoi4@uwyo.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the ASP Lab.
 baseurl: "/ASPlab"
-url: " https://hoonchoi2.github.io/ASPlab/"
+url: "https://hoonchoi2.github.io"
 
 include:
   - .htaccess
