@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to the ASP Lab!
+# Advanced Separations and Purification Laboratory for Clean Energy and Life Sciences!
 
 We are a research group at the [University of Wyoming](https://www.uwyo.edu/).
 
