@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "Choi's Lab - Team"
 layout: gridlay
 excerpt: "Group Members"
 sitemap: false
@@ -19,7 +19,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left; margin-right: 20px;" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
@@ -68,10 +68,10 @@ permalink: /team/
 {% for member in site.data.team_members %}
 {% if member.role == "student" or member.role == "postdoc" %}
 
-<div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left; margin-right: 20px; margin-bottom: 20px;" />
+<div class="col-sm-12 clearfix" style="margin-bottom: 30px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left; margin-right: 20px;" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
@@ -97,17 +97,4 @@ permalink: /team/
   {% endif %}
   
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-  
-  </ul>
-</div>
-
-{% endif %}
-{% endfor %}
-
-</div>
+  <li>
