@@ -1,7 +1,7 @@
 - name: Hoon Choi, Ph.D.
   photo: choi.jpg
   info: Principal Investigator
-  email: hchoi4@uwyo.edu
+  email: hchoi13@uwyo.edu
   number_educ: 5
   education1: Staff Scientist, National Renewable Energy Laboratory (NREL), 2022-2025
   education2: Postdoc, National Renewable Energy Laboratory (NREL), 2020-2022
@@ -9,10 +9,36 @@
   education4: M.S. Chemical and Biomolecular Engineering, Yonsei University, 2014
   education5: B.S. Chemical Engineering, Yonsei University, 2012
 
-- name: New Member Name
-  photo: member.jpg
-  info: Position (PhD Student, Postdoc, etc.)
-  email: email@uwyo.edu
-  number_educ: 2
-  education1: Previous position/degree
-  education2: Another degree/position
+- name: name
+  photo: members.jpg
+  info: Postdoctoral Researcher/PhD
+  email: name@uwyo.edu
+  number_educ: 1
+  education1: B.S. 
+  
+
+
+# INSTRUCTIONS FOR ADDING NEW MEMBERS:
+# 
+# Copy the template below and paste it at the end of the file.
+# Replace the placeholder text with actual information.
+# Make sure to maintain proper YAML indentation (2 spaces per level).
+# 
+# TEMPLATE:
+# - name: Full Name
+#   photo: filename.jpg
+#   info: Position (e.g., PhD Student, Postdoc, Research Assistant)
+#   email: email@uwyo.edu
+#   number_educ: X (number of education/experience lines you want to show)
+#   education1: First degree or position
+#   education2: Second degree or position (if number_educ >= 2)
+#   education3: Third degree or position (if number_educ >= 3)
+#   education4: Fourth degree or position (if number_educ >= 4)
+#   education5: Fifth degree or position (if number_educ >= 5)
+#
+# IMPORTANT NOTES:
+# 1. Photo files must be placed in: /images/teampic/
+# 2. Use exactly 2 spaces for indentation (not tabs!)
+# 3. Each team member starts with a dash (-)
+# 4. number_educ must match the number of education lines you include
+# 5. If someone has no education to list, use number_educ: 0
