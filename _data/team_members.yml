@@ -5,14 +5,14 @@
   number_educ: 5
   education1: Staff Scientist, National Renewable Energy Laboratory (NREL), 2022-2025
   education2: Postdoc, National Renewable Energy Laboratory (NREL), 2020-2022
-  education3: Ph.D. Chemical Engineering, Purdue University, 2018 
+  education3: Ph.D. Chemical Engineering, Purdue University, 2018
   education4: M.S. Chemical and Biomolecular Engineering, Yonsei University, 2014
   education5: B.S. Chemical Engineering, Yonsei University, 2012
-  
 
-- name: TBD
-  photo: 
-  info: n/a
-  email: n/a
-  number_educ: 1
-  education1: n/a
+- name: New Member Name
+  photo: member.jpg
+  info: Position (PhD Student, Postdoc, etc.)
+  email: email@uwyo.edu
+  number_educ: 2
+  education1: Previous position/degree
+  education2: Another degree/position
