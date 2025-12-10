@@ -1,14 +1,18 @@
-- name: 홍길동
+- name: Hoon Choi, Ph.D.
   photo: team_member1.jpg
-  info: 교수, 2010년부터
-  email: hong@university.edu
-  number_educ: 2
-  education1: 박사, 서울대학교, 2008
-  education2: 학사, 연세대학교, 2003
+  info: Principal Investigator
+  email: hchoi4@uwyo.edu
+  number_educ: 5
+  education1: Staff Scientist, National Renewable Energy Laboratory (NREL), 2022-2025
+  education2: Postdoc, National Renewable Energy Laboratory (NREL), 2020-2022
+  education3: Ph.D. Chemical Engineering, Purdue University, 2018 
+  education4: M.S. Chemical and Biomolecular Engineering, Yonsei University, 2014
+  education5: B.S. Chemical Engineering, Yonsei University, 2012
+  
 
-- name: 김철수
-  photo: team_member2.jpg
-  info: 박사과정, 2020년부터
-  email: kim@university.edu
+- name: TBD
+  photo: 
+  info: n/a
+  email: n/a
   number_educ: 1
-  education1: 석사, KAIST, 2020
+  education1: n/a
