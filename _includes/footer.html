@@ -1,31 +1,82 @@
-<div id="footer" class="panel">
-	<div class="panel-footer">
-	  <div class="container-fluid">
-		<div class="row text-center">
-		  <!-- 좌측: 저작권 -->
-		  <div class="col-sm-4">
-			<p>&copy 2025 Choi Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a></p>
-		  </div>
-  
-		  <!-- 중앙: 기관 소개 -->
-		  <div class="col-sm-4">
-			<p>
-			  <a href="https://www.uwyo.edu/chemical/index.html">Chemical and Biomedical Engineering</a><br>
-			  <a href="https://www.uwyo.edu/ser/index.html">School of Energy and Resources</a>
-			</p>
-		  </div>
-  
-		  <!-- 우측: 연락처 -->
-		  <div class="col-sm-4">
-			Contact:<br />
-			University of Wyoming<br />
-			1000 E University Ave<br />
-			Laramie, WY 82071<br />
-			USA<br />
-			Email: <a href="mailto:hchoi4@uwyo.edu">hchoi4@uwyo.edu</a>
-		  </div>
-		</div>
-	  </div>
-	</div>
+<footer class="site-footer">
+  <div class="container">
+    <div class="row align-items-center" style="padding: 20px 0;">
+      
+      <!-- Left Section: Copyright (Far Left) -->
+      <div class="col-sm-4">
+        <p style="margin: 0; text-align: left;">
+          © 2025 Choi Lab. Site made with <a href="https://jekyllrb.com" target="_blank">Jekyll</a>
+        </p>
+      </div>
+      
+      <!-- Middle Section: CBE Logo (Center) -->
+      <div class="col-sm-4" style="text-align: center;">
+        <a href="https://www.uwyo.edu/chemical/index.html" target="_blank">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_CBE.png" 
+               alt="Chemical and Biomedical Engineering" 
+               style="max-height: 60px; width: auto; margin: 0 10px;">
+        </a>
+      </div>
+      
+      <!-- Right Section: SER Logo (Far Right) -->
+      <div class="col-sm-4" style="text-align: right;">
+        <a href="https://www.uwyo.edu/ser/index.html" target="_blank">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_SER.png" 
+               alt="School of Energy and Resources" 
+               style="max-height: 60px; width: auto; margin: 0 10px;">
+        </a>
+      </div>
+      
+    </div>
   </div>
+</footer>
+
+<style>
+/* Sticky Footer Styles */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 120px; /* Adjust based on footer height */
+}
+
+.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+}
+
+.site-footer p {
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.site-footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  body {
+    margin-bottom: 200px; /* More space for stacked mobile layout */
+  }
   
+  .site-footer .row > div {
+    text-align: center !important;
+    margin-bottom: 15px;
+  }
+  
+  .site-footer img {
+    max-height: 50px !important;
+  }
+}
+</style>
