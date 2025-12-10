@@ -8,14 +8,14 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new PhD students, Postdocs, and Master students to join the team**  **!**
+**We are looking for new PhD students, Postdocs, and Master students to join the team!**
 
 ## Principal Investigator
 
 {% assign first_member = site.data.team_members[0] %}
 <div class="row">
   <div class="col-sm-12 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ first_member.photo }}" class="img-responsive" width="25%" style="float:left; margin-right: 15px;" />
+    <img src="{{ site.baseurl }}/images/teampic/{{ first_member.photo }}" class="img-responsive" width="25%" style="float:left;" />
     <h4>{{ first_member.name }}</h4>
     <i>{{ first_member.info }}</i>
     <ul style="overflow:hidden;">
@@ -26,12 +26,13 @@ permalink: /team/
   </div>
 </div>
 
-## Our Team
+## Our Group Members
 
-{% for member in site.data.team_members offset:1 %}
+{% assign remaining_members = site.data.team_members | slice: 1, site.data.team_members.size %}
+{% for member in remaining_members %}
 <div class="row">
   <div class="col-sm-12 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float:left; margin-right: 15px;" />
+    <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float:left;" />
     <h4>{{ member.name }}</h4>
     <i>{{ member.info }}</i>
     <ul style="overflow:hidden;">
@@ -42,5 +43,3 @@ permalink: /team/
   </div>
 </div>
 {% endfor %}
-
-
