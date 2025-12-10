@@ -1,5 +1,5 @@
 ---
-title: "Choi's Lab - Home"
+title: "Choi Lab - Home"
 layout: homelay
 excerpt: "Choi's group at the University of Wyoming."
 sitemap: false
