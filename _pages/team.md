@@ -1,7 +1,7 @@
 ---
-title: "Choi Lab - Team"
+title: "Team"
 layout: gridlay
-excerpt: "Choi Lab: Team members"
+excerpt: "Group Members"
 sitemap: false
 permalink: /team/
 ---
@@ -12,40 +12,63 @@ permalink: /team/
 
 ## Principal Investigator
 
-{% assign first_member = site.data.team_members[0] %}
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
-  <div class="col-sm-12 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ first_member.photo }}" class="img-responsive" width="25%" style="float:left; margin-right: 20px;" />
-    <h4>{{ first_member.name }}</h4>
-    <i>{{ first_member.info }}</i>
-    <ul style="overflow:hidden;">
-      {% for i in (1..first_member.number_educ) %}
-        {% assign educ_key = "education" | append: i %}
-        <li>{{ first_member[educ_key] | markdownify }}</li>
-      {% endfor %}
-    </ul>
-  </div>
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+  
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+  
+  </ul>
 </div>
 
-<hr>
+{% assign number_printed = number_printed | plus: 1 %}
 
-## Our Team
-
-{% for member in site.data.team_members offset:1 %}
-<div class="row">
-  <div class="col-sm-12 clearfix">
-    {% if member.photo != "" %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float:left; margin-right: 20px;" />
-    {% endif %}
-    <h4>{{ member.name }}</h4>
-    <i>{{ member.info }}</i>
-    <ul style="overflow:hidden;">
-      {% for i in (1..member.number_educ) %}
-        {% assign educ_key = "education" | append: i %}
-        <li>{{ member[educ_key] | markdownify }}</li>
-      {% endfor %}
-    </ul>
-  </div>
+{% if even_odd == 1 %}
 </div>
-<br>
+{% endif %}
+
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
