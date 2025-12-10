@@ -15,8 +15,12 @@ Our research focuses on developing advanced separations and purification (ASP) p
 
 
 **We are looking for motivated students to join our research!**
+[See Open Positions →]({{ site.baseurl }}/vacancies)
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UWyo.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_CBE.png" style="width: 200px">
 </figure>
 
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_SER.png" style="width: 200px">
+</figure>
