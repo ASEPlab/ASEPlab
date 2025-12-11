@@ -6,9 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Out Team
 
-**We are looking for new PhD students, Postdocs, and Master students to join the team!**
 
 ## Principal Investigator
 
@@ -62,7 +61,7 @@ permalink: /team/
 ---
 
 ## Group Members
-
+**We are looking for new PhD students, Postdocs, and Master students to join the team!**
 <div class="row">
 
 {% for member in site.data.team_members %}
