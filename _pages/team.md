@@ -1,12 +1,12 @@
 ---
 title: "Choi Lab - Team"
 layout: gridlay
-excerpt: "Group Members"
+excerpt: "Choi Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Our Team
+# Group Members
 
 ## Principal Investigator
 
