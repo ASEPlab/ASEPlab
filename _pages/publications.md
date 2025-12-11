@@ -30,13 +30,13 @@ permalink: /publications/
 
 ## Patents
 
-1. Saboe, P. O., Prestangen, R. L., Pivovar, B., Owczarczyk, Z. R., **Choi, H.**, Hybrid thermal-chromatographic system for simultaneous mineral purification and desalination of saline waters, US Patent Application No. 19/087,176
-2. Ciesielski, P., Werner, A. Z., Knot, B., McGeehan, J., **Choi, H.**, Capture and selective separation of metals using engineered proteins, peptides, and polymers, US Provisional Patent Application No. 63/704,290
-3. **Choi, H.**, Werner, A. Z., Microbial extraction of critical materials from waste feedstocks, US Provisional Patent Application No. 63/704,337
-4. Liang, Y., **Choi, H.**, DesVeaux, J., Beckham, G. T., Knauer, K. M., Downstream process for separating a mixture of depolymerized polyester products produced from methanolysis, US Provisional Patent Application No. PCT/US24/37401 (licensed to Amazon & EsterCycle)
-5. Lee, M., Lahive, C. W., Cuthbertson, A. A., Liang, Y., **Choi, H.**, Sullivan, K., Beckham, G. T., Knauer, K. M., Methods and systems for dye removal from polymer textiles. WO Patent Application No. 2024/108081 A1 (licensed to Patagonia)
-6. Lee, M., Lahive, C. W., Cuthbertson, A. A., Liang, Y., **Choi, H.**, Beckham, G. T., Knauer, K. M., Process for sequential acetolysis-autoxidation of plastic streams. US Patent Application No. 63/383,293
-7. Karp, E. M., **Choi, H.**, Soland, N. E., Process for the recovery of monopotassium glucarate and glucaric acid. WO Patent Application No. 2023/076622 (licensed to Kalion, Inc.)
-8. Wang, N. H. L., **Choi, H.**, & Harvey, D., Methods for designing an efficient preparative chromatographic separation process. WO Patent Application No. 2019/084404 (licensed to ReElement, Inc.)
-9. Wang, N. H. L., **Choi, H.**, & Harvey, D., Preparation of rare earth metals and other chemicals from industrial waste coal ash. US Patent 11,866,804 (licensed to ReElement, Inc.)
-10. **Choi, H.**, Um, K., & Lee, K., A method to produce mesoporous zinc silicate particles performed in a single batch. KR 101791656B1
+1. Saboe, P. O., Prestangen, R. L., Pivovar, B., Owczarczyk, Z. R., **Choi, H.**, Hybrid thermal-chromatographic system for simultaneous mineral purification and desalination of saline waters, *US Patent Application No. 19/087,176*
+2. Ciesielski, P., Werner, A. Z., Knot, B., McGeehan, J., **Choi, H.**, Capture and selective separation of metals using engineered proteins, peptides, and polymers, *US Provisional Patent Application No. 63/704,290*
+3. **Choi, H.**, Werner, A. Z., Microbial extraction of critical materials from waste feedstocks, *US Provisional Patent Application No. 63/704,337*
+4. Liang, Y., **Choi, H.**, DesVeaux, J., Beckham, G. T., Knauer, K. M., Downstream process for separating a mixture of depolymerized polyester products produced from methanolysis, *US Provisional Patent Application No. PCT/US24/37401 (licensed to Amazon & EsterCycle)*
+5. Lee, M., Lahive, C. W., Cuthbertson, A. A., Liang, Y., **Choi, H.**, Sullivan, K., Beckham, G. T., Knauer, K. M., Methods and systems for dye removal from polymer textiles. *WO Patent Application No. 2024/108081 A1 (licensed to Patagonia)*
+6. Lee, M., Lahive, C. W., Cuthbertson, A. A., Liang, Y., **Choi, H.**, Beckham, G. T., Knauer, K. M., Process for sequential acetolysis-autoxidation of plastic streams. *US Patent Application No. 63/383,293*
+7. Karp, E. M., **Choi, H.**, Soland, N. E., Process for the recovery of monopotassium glucarate and glucaric acid. *WO Patent Application No. 2023/076622 (licensed to Kalion, Inc.)*
+8. Wang, N. H. L., **Choi, H.**, & Harvey, D., Methods for designing an efficient preparative chromatographic separation process. *WO Patent Application No. 2019/084404 (licensed to ReElement, Inc.)*
+9. Wang, N. H. L., **Choi, H.**, & Harvey, D., Preparation of rare earth metals and other chemicals from industrial waste coal ash. *US Patent 11,866,804 (licensed to ReElement, Inc.)*
+10. **Choi, H.**, Um, K., & Lee, K., A method to produce mesoporous zinc silicate particles performed in a single batch. *KR 101791656B1*
