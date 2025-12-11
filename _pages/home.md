@@ -6,11 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-# Advanced Separations and Purification Laboratory
+# Choi's research Group
 
-We are Choi's research group at the [University of Wyoming](https://www.uwyo.edu/).
+We are a separation research group at the [Department of Chemical and Biomedical Engineering at the University of Wyoming]([https://www.uwyo.edu/](https://www.uwyo.edu/chemical/index.html)).
 
-Our research focuses on developing advanced separations and purification (ASP) processes for clean energy systems and life sciences. 
+Working together with [School of Energy and Resources] ([https://www.uwyo.edu/ser/index.html]), our research focuses on developing advanced separations and purification processes for clean energy systems and life sciences. 
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_CBE.png" style="width: 200px">
