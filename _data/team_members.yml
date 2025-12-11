@@ -9,13 +9,12 @@
   education4: M.S. Chemical and Biomolecular Engineering, Yonsei University, 2014
   education5: B.S. Chemical Engineering, Yonsei University, 2012
 
-- name: name
+- name: Name
   photo: members.jpg
-  info: Postdoctoral Researcher/PhD
+  info: Postdoctoral Researcher / PhD Student
   email: name@uwyo.edu
   number_educ: 1
-  education1: B.S. 
-  
+  education1: B.S.
 
 
 # INSTRUCTIONS FOR ADDING NEW MEMBERS:
