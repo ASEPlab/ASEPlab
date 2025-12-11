@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-# Advanced Separations and Purification Laboratory for Clean Energy and Life Sciences!
+# Advanced Separations and Purification Laboratory
 
-We are a research group at the [University of Wyoming](https://www.uwyo.edu/).
+We are Choi's research group at the [University of Wyoming](https://www.uwyo.edu/).
 
 Our research focuses on developing advanced separations and purification (ASP) processes for clean energy systems and life sciences. 
 
