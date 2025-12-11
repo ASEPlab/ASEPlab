@@ -12,15 +12,11 @@ We are Choi's research group at the [University of Wyoming](https://www.uwyo.edu
 
 Our research focuses on developing advanced separations and purification (ASP) processes for clean energy systems and life sciences. 
 
-
-
-**We are looking for motivated students to join our research!**
-[See Open Positions →]({{ site.baseurl }}/vacancies)
-
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_CBE.png" style="width: 200px">
 </figure>
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_SER.png" style="width: 200px">
-</figure>
+
+**We are looking for motivated students to join our research!**
+[See Open Positions]({{ site.baseurl }}/vacancies)
+
