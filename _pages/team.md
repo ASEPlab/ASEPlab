@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Out Team
+# Our Team
 
 
 ## Principal Investigator
