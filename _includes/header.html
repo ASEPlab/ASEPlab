@@ -1,3 +1,44 @@
+<!-- header.html -->
+
+<!-- CSS: navbar 높이, 글자 크기, 로고, 반응형 포함 -->
+<style>
+/* Navbar 전체 높이 */
+.navbar {
+  min-height: 80px; /* 데스크톱 기준 전체 높이 */
+}
+
+/* navbar-brand: 로고 + 텍스트 */
+.navbar-brand {
+  height: 80px;           /* navbar 높이에 맞춤 */
+  display: flex;
+  align-items: center;    /* 로고와 텍스트 수직 정렬 */
+  font-size: 28px;        /* 글자 크기 */
+  font-weight: bold;
+  gap: 10px;              /* 로고와 텍스트 간격 */
+}
+
+/* 로고 이미지 높이 */
+.navbar-brand img {
+  height: 60px;           /* navbar 높이에 맞춰 조정 */
+  display: inline-block;
+}
+
+/* 모바일 대응 */
+@media (max-width: 768px) {
+  .navbar {
+    min-height: 60px;
+  }
+  .navbar-brand {
+    height: 60px;
+    font-size: 20px;
+  }
+  .navbar-brand img {
+    height: 40px;
+  }
+}
+</style>
+
+<!-- Navbar -->
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -11,7 +52,7 @@
 
       <!-- 로고 + 텍스트 -->
       <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/images/logopic/logo_UW.png" alt="UW Logo" style="height:30px; display:inline-block; margin-right:8px;">
+        <img src="{{ site.baseurl }}/images/logopic/logo_UW.png" alt="UW Logo">
         Choi's research group
       </a>
     </div>
