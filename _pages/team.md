@@ -12,16 +12,21 @@ permalink: /team/
 
 {% assign pi = site.data.team_members | where: "role", "pi" | first %}
 
-<div class="row">
-  <div class="col-sm-12 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ pi.photo }}" class="img-responsive" width="20%" style="float: left; margin-right: 20px;" />
-    <h4>{{ pi.name }}</h4>
-    <i>{{ pi.info }}<br>email: {{ pi.email }}</i>
-    <ul style="overflow: hidden">
-      {% for i in (1..pi.number_educ) %}
-        <li>{{ pi["education" | append: i] }}</li>
-      {% endfor %}
-    </ul>
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ pi.photo }}" class="card-img-top" alt="{{ pi.name }}">
+    <div class="card-body">
+      <h5 class="card-title">{{ pi.name }}</h5>
+      <p class="card-text">
+        {{ pi.info }}<br>
+        email: <a href="mailto:{{ pi.email }}">{{ pi.email }}</a>
+      </p>
+      <ul>
+        {% for i in (1..pi.number_educ) %}
+          <li>{{ pi["education" | append: i] }}</li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </div>
 
@@ -31,23 +36,26 @@ permalink: /team/
 
 **We are looking for new PhD students, Postdocs, and Master students to join the team!**
 
-<div class="row">
-
 {% for member in site.data.team_members %}
   {% if member.role == "student" or member.role == "postdoc" %}
 
-  <div class="col-sm-12 clearfix" style="margin-bottom: 30px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left; margin-right: 20px;" />
-    <h4>{{ member.name }}</h4>
-    <i>{{ member.info }}<br>email: {{ member.email }}</i>
-    <ul style="overflow: hidden">
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append: i] }}</li>
-      {% endfor %}
-    </ul>
+  <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+    <div class="card h-100">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="card-img-top" alt="{{ member.name }}">
+      <div class="card-body">
+        <h5 class="card-title">{{ member.name }}</h5>
+        <p class="card-text">
+          {{ member.info }}<br>
+          email: <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+        </p>
+        <ul>
+          {% for i in (1..member.number_educ) %}
+            <li>{{ member["education" | append: i] }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
 
   {% endif %}
 {% endfor %}
-
-</div>
