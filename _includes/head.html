@@ -1,11 +1,14 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ page.title }} | Choi Lab</title>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-<!-- Bootstrap CSS -->
-<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}">
-<!-- Custom CSS -->
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
-<!-- Favicon -->
-<link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
+</head>
