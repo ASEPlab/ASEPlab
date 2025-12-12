@@ -1,23 +1,59 @@
+<style>
+/* Navbar 전체 높이 조절 */
+.navbar {
+  min-height: 100px;  /* 전체 높이 */
+}
+.navbar-brand {
+  line-height: 100px; /* PC 높이에 맞춰 중앙 정렬 */
+  font-size: 28px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* 모바일 대응 */
+@media (max-width: 768px) {
+  .navbar {
+    min-height: 80px;
+  }
+
+  .navbar-brand {
+    line-height: 80px;
+    font-size: 20px;
+  }
+}
+</style>
+
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Choi's research group </a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Openings</a></li>
-	  </ul>
-	</div>
+    <div class="navbar-header">
+      <!-- 모바일 햄버거 버튼 -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <!-- 로고 + 텍스트 -->
+      <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/images/logopic/logo_UW.png" alt="UW Logo">
+        Choi's research group
+      </a>
+    </div>
+
+    <!-- 메뉴 -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/pi">PI</a></li>
+        <li><a href="{{ site.baseurl }}/members">Members</a></li>
+        <li><a href="{{ site.baseurl }}/research">Research</a></li>
+        <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
+        <li><a href="{{ site.baseurl }}/vacancies">Openings</a></li>
+      </ul>
+    </div>
   </div>
 </div>
+``
