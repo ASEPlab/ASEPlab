@@ -3,7 +3,7 @@ title: "Choi Lab - PI"
 layout: gridlay
 permalink: /pi/
 ---
-# Principal Investigator
+
 
 <div class="team-section">
   {% for member in site.data.team %}
