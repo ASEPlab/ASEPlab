@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+
 
 <style>
     body {
@@ -64,24 +64,24 @@ permalink: /research/
 # Advanced Separation Processes for Critical Mineral Recovery and Sustainability
 
 ## Mission & Vision
-[cite_start]The focus of the Choi Lab research is to design advanced separation processes that integrate **novel material design**, **innovative separation techniques**, and **process intensification** toward critical mineral (CM) recovery and waste valorization[cite: 7].  
-[cite_start]We aim to develop energy-efficient and economically viable processes for challenging separations, such as rare earth element (REE) purification[cite: 5].
+"The focus of the Choi Lab research is to design advanced separation processes that integrate **novel material design**, **innovative separation techniques**, and **process intensification** toward critical mineral (CM) recovery and waste valorization.  
+We aim to develop energy-efficient and economically viable processes for challenging separations, such as rare earth element (REE) purification.
 
-## Core Research Pillars (Fig. 1)
-[cite_start]Our research utilizes a comprehensive approach across four integrated pillars, striving for advanced downstream process development for recovering critical minerals and utilizing renewable resources[cite: 23].
+## Core Research Pillars
+Our research utilizes a comprehensive approach across four integrated pillars, striving for advanced downstream process development for recovering critical minerals and utilizing renewable resources.
 
 <div class="core-pillars">
     <div class="pillar">
-        [cite_start]<strong>Target-selective material and system design</strong> [cite: 15]
+        <strong>Target-selective material and system design</strong> 
     </div>
     <div class="pillar">
-        [cite_start]<strong>Model-based process optimization & intensification</strong> [cite: 19]
+        <strong>Model-based process optimization & intensification</strong> 
     </div>
     <div class="pillar">
-        [cite_start]<strong>Robust and scalable separations</strong> [cite: 20, 22]
+        <strong>Robust and scalable separations</strong>
     </div>
     <div class="pillar">
-        [cite_start]<strong>Utilization of unconventional resources</strong> [cite: 16]
+        <strong>Utilization of unconventional resources</strong>
     </div>
 </div>
 
@@ -91,5 +91,5 @@ permalink: /research/
     <img src="{{ site.baseurl }}/images/research/Fig1.png" style="max-width: 100%;">
 </div>
 
-## Thematic Research Areas
-[cite_start]While focusing on CM recovery from unconventional resources (coal-based byproducts, e-waste, battery wastes), our scope expands to bioprocessing, plastic upcycling, and wastewater treatment due to the fundamental nature of separation scienc_]()
+## Research Areas
+While focusing on CM recovery from unconventional resources (coal-based byproducts, e-waste, battery wastes), our scope expands to bioprocessing, plastic upcycling, and wastewater treatment due to the fundamental nature of separation science.
