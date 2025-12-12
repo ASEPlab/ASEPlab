@@ -1,8 +1,22 @@
 ---
-layout: page
-title: Principal Investigator
+title: "Choi Lab - PI"
+layout: gridlay
 permalink: /pi/
 ---
+# Principal Investigator
 
-## Principal Investigator 
-Prof. Hoon Choi
+<div class="team-section">
+  {% for member in site.data.team %}
+    {% if member.role == "pi" %}
+      {% include team_member.html member=member %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<style>
+.team-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+</style>
