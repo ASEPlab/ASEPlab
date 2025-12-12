@@ -3,11 +3,7 @@ title: "Choi Lab - PI"
 layout: gridlay
 permalink: /pi/
 ---
----
-title: "Choi Lab - PI"
-layout: gridlay
-permalink: /pi/
----
+
 
 # Principal Investigator
 
