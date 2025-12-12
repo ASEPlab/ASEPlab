@@ -11,7 +11,7 @@ permalink: /pi/
 
 # Principal Investigator
 
-![Hoon Choi, Ph.D.]({{ site.baseurl }}/images/teampic/choi.png)
+![Hoon Choi, Ph.D.]({{ site.baseurl }}/images/teampic/choi.png){: width="200"}
 
 ## Hoon Choi, Ph.D.
 
