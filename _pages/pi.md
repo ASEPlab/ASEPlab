@@ -12,11 +12,3 @@ permalink: /pi/
     {% endif %}
   {% endfor %}
 </div>
-
-<style>
-.team-section {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
-</style>
