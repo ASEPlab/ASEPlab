@@ -8,65 +8,88 @@ permalink: /research/
 
 # Research
 
-## Overview
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    h1 {
+        color: #004d99;
+        border-bottom: 3px solid #004d99;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    h2 {
+        color: #0077b3;
+        border-left: 5px solid #0077b3;
+        padding-left: 10px;
+        margin-top: 30px;
+    }
+    h3 {
+        color: #333;
+        font-size: 1.2em;
+        margin-top: 20px;
+    }
+    .core-pillars {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin: 20px 0;
+        text-align: center;
+    }
+    .pillar {
+        flex: 1 1 45%;
+        background-color: #f4f4f4;
+        padding: 15px;
+        border-radius: 8px;
+        min-width: 200px;
+    }
+    .figure-placeholder {
+        border: 1px dashed #ccc;
+        padding: 10px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    ul {
+        list-style: disc;
+        margin-left: 20px;
+    }
+</style>
 
-Our research focuses on [주요 연구 분야를 여기에 작성하세요].
 
-We are interested in developing innovative solutions for [구체적인 연구 목표].
+# Advanced Separation Processes for Critical Mineral Recovery and Sustainability
 
----
+## Mission & Vision
+[cite_start]The focus of the Choi Lab research is to design advanced separation processes that integrate **novel material design**, **innovative separation techniques**, and **process intensification** toward critical mineral (CM) recovery and waste valorization[cite: 7].  
+[cite_start]We aim to develop energy-efficient and economically viable processes for challenging separations, such as rare earth element (REE) purification[cite: 5].
 
-## Research Areas
+## Core Research Pillars (Fig. 1)
+[cite_start]Our research utilizes a comprehensive approach across four integrated pillars, striving for advanced downstream process development for recovering critical minerals and utilizing renewable resources[cite: 23].
 
-### 1. [연구 주제 1]
+<div class="core-pillars">
+    <div class="pillar">
+        [cite_start]<strong>Target-selective material and system design</strong> [cite: 15]
+    </div>
+    <div class="pillar">
+        [cite_start]<strong>Model-based process optimization & intensification</strong> [cite: 19]
+    </div>
+    <div class="pillar">
+        [cite_start]<strong>Robust and scalable separations</strong> [cite: 20, 22]
+    </div>
+    <div class="pillar">
+        [cite_start]<strong>Utilization of unconventional resources</strong> [cite: 16]
+    </div>
+</div>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.jpg){: style="width: 300px; float: left; margin: 0px 10px"}
+<div class="figure-placeholder">
+    **Insert Figure 1 here**
+    <br>
+    <img src="{{ site.baseurl }}/images/research/Fig1.png" style="max-width: 100%;">
+</div>
 
-[연구 주제 1에 대한 설명을 작성하세요. 예를 들어:]
-
-- 주요 접근 방법
-- 사용하는 기술
-- 기대 효과
-
-<div style="clear: both;"></div>
-
----
-
-### 2. [연구 주제 2]
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.jpg){: style="width: 300px; float: right; margin: 0px 10px"}
-
-[연구 주제 2에 대한 설명]
-
-- 핵심 내용
-- 관련 프로젝트
-- 응용 분야
-
-<div style="clear: both;"></div>
-
----
-
-### 3. [연구 주제 3]
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.jpg){: style="width: 300px; float: left; margin: 0px 10px"}
-
-[연구 주제 3에 대한 설명]
-
-<div style="clear: both;"></div>
-
----
-
-## Funding
-
-We gratefully acknowledge funding from:
-- [지원 기관 1]
-- [지원 기관 2]
-- University of Wyoming
-
----
-
-## Collaborations
-
-We collaborate with:
-- [협력 기관/연구자 1]
-- [협력 기관/연구자 2]
+## Thematic Research Areas
+[cite_start]While focusing on CM recovery from unconventional resources (coal-based byproducts, e-waste, battery wastes), our scope expands to bioprocessing, plastic upcycling, and wastewater treatment due to the fundamental nature of separation scienc_]()
