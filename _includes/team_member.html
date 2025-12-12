@@ -1,5 +1,5 @@
 <div class="team-card">
-  <img src="{{ site.baseurl }}/images/logopic/{{ member.photo }}" alt="{{ member.name }}">
+  <img src="{{ site.baseurl }}/images/teampic/{{ member.photo | default: 'default.png' }}" alt="{{ member.name }}">
   <h3>{{ member.name }}</h3>
   <p>{{ member.info }}</p>
   <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
