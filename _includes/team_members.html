@@ -1,0 +1,17 @@
+<div class="team-card">
+  <img src="{{ site.baseurl }}/images/logopic/{{ member.photo }}" alt="{{ member.name }}">
+  <h3>{{ member.name }}</h3>
+  <p>{{ member.info }}</p>
+  <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+  
+  {% if member.number_educ %}
+    <ul class="education-list">
+      {% for i in (1..member.number_educ) %}
+        {% assign key = 'education' | append: i %}
+        {% if member[key] %}
+          <li>{{ member[key] }}</li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
