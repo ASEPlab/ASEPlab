@@ -9,13 +9,9 @@ permalink: /pi/
 <table style="width: 100%; border: none; margin-bottom: 25px;">
   <tr>
     <td style="width: 220px; vertical-align: top; padding-right: 40px; border: none;">
-      
-      ![Hoon Choi, Ph.D.]({{ '/images/teampic/PI.jpg' | relative_url }}){style="width: 100%; max-width: 200px; border-radius: 8px;"}
-
+      <img src="{{ site.baseurl }}/images/teampic/PI.jpg" alt="Hoon Choi, Ph.D." style="width: 100%; max-width: 200px; border-radius: 8px;">
     </td>
-
     <td style="vertical-align: top; border: none;">
-      
       <h3>Hoon Choi, Ph.D.</h3>
       <p style="margin-top: -10px;">
         <strong>Assistant Professor</strong><br>
@@ -61,13 +57,13 @@ Yonsei University, Seoul, South Korea
 
 ### Awards and Honors
 
-- **President’s Distinguished Scholar**, University of Wyoming (2026)
-- **President’s Award**, National Renewable Energy Laboratory (2024)
-- **Director’s Award**, National Renewable Energy Laboratory (2021)
+- **President's Distinguished Scholar**, University of Wyoming (2026)
+- **President's Award**, National Renewable Energy Laboratory (2024)
+- **Director's Award**, National Renewable Energy Laboratory (2021)
 - **Employee of the Month**, Samsung Electronics Foundry (2019)
 - **Hanwha Travel Grant**, AIChE Annual Meeting, Hanwha Total (2018)
 - **Moojin Science and Technology Scholarship**, Moojin Science Foundation (2012–2014)
-- **High Honors & Honors (Dean’s List)**, Yonsei University (2010–2011)
+- **High Honors & Honors (Dean's List)**, Yonsei University (2010–2011)
 - **National Science and Engineering Full Scholarship**, Korean Student Aid Foundation (2006–2012)
 
 <hr>
