@@ -91,3 +91,29 @@ firstp {
     margin-right: 30px;
 }
 
+
+/* ======================================= */
+/* ⚠️ 사용자 정의: 제목 크기 조정 (Headings Fix) */
+/* ======================================= */
+
+/* <h1> 태그 크기 조정 (가장 큰 제목) */
+h1 {
+    font-size: 2.2em; /* 현재보다 작은 값으로 조정 (원하는 크기로 변경 가능) */
+    font-weight: 700; /* 글꼴 두께 (Bold) */
+    margin-top: 25px; 
+    margin-bottom: 20px;
+}
+
+/* <h2> 태그 크기 조정 (필요 시) */
+h2 {
+    font-size: 1.6em; 
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+/* <h3> 태그 크기 조정 (필요 시) */
+h3 {
+    font-size: 1.25em; 
+    font-weight: 500;
+}
