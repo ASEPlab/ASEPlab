@@ -9,7 +9,7 @@ permalink: /pi/
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
 
   <div style="flex: 0 0 300px; max-width: 100%;">
-    <img src="{{ site.baseurl }}/images/teampic/choi.jpg" alt="Hoon Choi, Ph.D." style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
+    <img src="{{ '/images/teampic/choi.jpg' | relative_url }}" alt="Hoon Choi, Ph.D." style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
     
     <h3>Hoon Choi, Ph.D.</h3>
     <p>
