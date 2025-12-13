@@ -8,8 +8,8 @@ permalink: /pi/
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
 
-  <div style="flex: 0 0 300px; max-width: 100%;">
-    <img src="{{ '/images/teampic/choi.jpg' | relative_url }}" alt="Hoon Choi, Ph.D." style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
+  <div style="flex: 0 0 200px; max-width: 100%;"> 
+    <img src="{{ '/images/teampic/pi.jpg' | relative_url }}" alt="Hoon Choi, Ph.D." style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
     
     <h3>Hoon Choi, Ph.D.</h3>
     <p>
@@ -78,4 +78,4 @@ Yonsei University, Seoul, South Korea
 - **Member**, American Chemical Society (ACS) (2021–Present)
 
   </div>
-  </div>
+</div>
