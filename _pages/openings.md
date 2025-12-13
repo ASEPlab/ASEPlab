@@ -1,5 +1,5 @@
 ---
-title: "ASP Lab - Vacancies"
+title: "Choi Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
