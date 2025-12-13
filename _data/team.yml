@@ -1,15 +1,15 @@
-- name: Hoon Choi, Ph.D.
-  role: pi
-  photo: choi.png
-  info: Principal Investigator
-  email: hchoi13@uwyo.edu
-  number_educ: 6
-  education1: Assistant Professor, University of Wyoming, Chemical and Biomedical Engineering, 2026-present
-  education2: Staff Scientist, National Renewable Energy Laboratory (NREL), 2022-2025
-  education3: Postdoc, National Renewable Energy Laboratory (NREL), 2020-2022
-  education4: Ph.D. Chemical Engineering, Purdue University, 2018
-  education5: M.S. Chemical and Biomolecular Engineering, Yonsei University, 2014
-  education6: B.S. Chemical Engineering, Yonsei University, 2012
+# name: Hoon Choi, Ph.D.
+#  role: pi
+#  photo: choi.png
+#  info: Principal Investigator
+#  email: hchoi13@uwyo.edu
+#  number_educ: 6
+#  education1: Assistant Professor, University of Wyoming, Chemical and Biomedical Engineering, 2026-present
+#  education2: Staff Scientist, National Renewable Energy Laboratory (NREL), 2022-2025
+#  education3: Postdoc, National Renewable Energy Laboratory (NREL), 2020-2022
+#  education4: Ph.D. Chemical Engineering, Purdue University, 2018
+# education5: M.S. Chemical and Biomolecular Engineering, Yonsei University, 2014
+#  education6: B.S. Chemical Engineering, Yonsei University, 2012
 
 - name: Name
   role: member
