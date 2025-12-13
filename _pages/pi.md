@@ -6,29 +6,30 @@ permalink: /pi/
 
 # Principal Investigator
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 220px; vertical-align: top; padding-right: 40px; border: none;">
+      
+      ![Hoon Choi, Ph.D.]({{ '/images/teampic/choi.jpg' | relative_url }}){style="width: 100%; max-width: 200px; border-radius: 8px; margin-bottom: 15px;"}
+      
+      <h3>Hoon Choi, Ph.D.</h3>
+      <p style="margin-top: -10px;">
+        <strong>Assistant Professor</strong><br>
+        Chemical and Biomedical Engineering &<br>
+        School of Energy and Resources<br>
+        University of Wyoming
+      </p>
+      <p>
+        <a href="mailto:hchoi13@uwyo.edu">hchoi13@uwyo.edu</a>
+      </p>
+      <p style="font-size: 0.9em; color: #555;">
+        <strong>Office:</strong><br>
+        EERB building,<br>
+        1114 E Bradley St, Laramie, WY 82072
+      </p>
+    </td>
 
-  <div style="flex: 0 0 200px; max-width: 100%;"> 
-    <img src="{{ '/images/teampic/pi.jpg' | relative_url }}" alt="Hoon Choi, Ph.D." style="width: 100%; border-radius: 8px; margin-bottom: 20px;">
-    
-    <h3>Hoon Choi, Ph.D.</h3>
-    <p>
-      <strong>Assistant Professor</strong><br>
-      Chemical and Biomedical Engineering &<br>
-      School of Energy and Resources<br>
-      University of Wyoming
-    </p>
-    <p>
-      <a href="mailto:hchoi13@uwyo.edu">hchoi13@uwyo.edu</a>
-    </p>
-    <p style="font-size: 0.9em; color: #555;">
-      <strong>Office:</strong><br>
-      EERB building,<br>
-      1114 E Bradley St, Laramie, WY 82072
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px;" markdown="1">
+    <td style="vertical-align: top; border: none;" markdown="1">
 
 ### Education and Professional Appointments
 
@@ -77,5 +78,6 @@ Yonsei University, Seoul, South Korea
 - **Industry Board Member**, KIChE-US Chapter (2024–2025)
 - **Member**, American Chemical Society (ACS) (2021–Present)
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
