@@ -5,8 +5,6 @@ permalink: /members/
 ---
 # Team Members
 
-<div class="team-section">
-  {% for member in site.data.team %}
-    {% include team_member.html member=member %}
-  {% endfor %}
-</div>
+
+We look forward to meeting you soon! 
+ 
