@@ -11,8 +11,7 @@ permalink: /pi/
 
 ## Hoon Choi, Ph.D.
 
-**Principal Investigator**  
-Assistant Professor  
+**Assistant Professor**  
 Chemical and Biomedical Engineering & School of Energy and Resources  
 University of Wyoming  
 
@@ -25,44 +24,40 @@ Office: EERB building,
 
 ### Education and Professional Appointments
 
-**Assistant Professor** (2026-present)  
-Chemical and Biomedical Engineering & School of Energy and Resources, University of Wyoming, Laramie, WY
+**Assistant Professor** (2026–Present) Chemical and Biomedical Engineering & School of Energy and Resources University of Wyoming, Laramie, WY
 
-**Staff Scientist** (2022-2025)  
-National Renewable Energy Laboratory (NREL), Golden, CO
+**Staff Scientist** (2022–2025) National Renewable Energy Laboratory (NREL), Golden, CO
 
-**Postdoctoral Researcher** (2020-2022)  
-National Renewable Energy Laboratory (NREL), Golden, CO
+**Postdoctoral Researcher** (2020–2022) National Renewable Energy Laboratory (NREL), Golden, CO
 
-**Ph.D. in Chemical Engineering** (2018)  
-Purdue University, West Lafayette, IN
+**Staff Engineer**(2019) Samsung Electronics Foundry, Kiheung, South Korea
 
-**M.S. in Chemical and Biomolecular Engineering** (2014)  
-Yonsei University, Seoul
+**Ph.D. in Chemical Engineering** (2018) Purdue University, West Lafayette, IN
 
-**B.S. in Chemical Engineering** (2012)  
-Yonsei University, Seoul
+**M.S. in Chemical and Biomolecular Engineering** (2014) Yonsei University, Seoul, South Korea
+
+**B.S. in Chemical Engineering** (2012) Yonsei University, Seoul, South Korea
 
 ---
 
 ### Awards and Honors
 
-- President’s Distinguished Scholar, University of Wyoming (2026)
-- President's Award, NREL (2024)
-- Director's Award, NREL (2021)
-- Employee of the Month, Samsung Electronics Foundry (2019)
-- Hanwha Travel Grant for 2018 AIChE Annual Meeting, Hanwha Total (2018)
-- Moojin Science and Technology Scholarship, Moojin Science Foundation (2012-2014)
-- Dean's List, Yonsei University - High Honors & Honors (2010-2011)
-- National Science and Engineering Full Scholarship, Korean Student Aid Foundation (2006-2012)
+- **President’s Distinguished Scholar**, University of Wyoming (2026)
+- **President’s Award,** National Renewable Energy Laboratory (2024)
+- **Director’s Award**, National Renewable Energy Laboratory (2021)
+- **Employee of the Month**, Samsung Electronics Foundry (2019)
+- **Hanwha Travel Gran**, AIChE Annual Meeting, Hanwha Total (2018)
+- **Moojin Science and Technology Scholarship**, Moojin Science Foundation (2012–2014)
+- **High Honors & Honors (Dean’s List)**, Yonsei University (2010–2011)
+- **National Science and Engineering Full Scholarshi**p, Korean Student Aid Foundation (2006–2012)
 
 ---
 
 ### Professional and Scholarly Associations
 
-- DOE BETO Bioprocessing Separations Consortium, member (2020-2025)
-- DOE BOTTLE Consortium, member (2022-2025)
-- DOE Critical Materials Collaborative (CMC), member (2024-2025)
-- American Institute of Chemical Engineers (AIChE), member (2018-present)
-- KIChE-US Chapter, Industry board (2024-2025)
-- American Chemical Society (ACS), member (2021-present)
+- **Member**, DOE BETO Bioprocessing Separations Consortium (2020–2025)
+- **Member**, DOE BOTTLE Consortium (2022–2025)
+- **Member**, DOE Critical Materials Collaborative (CMC) (2024–2025)
+- **Member**, American Institute of Chemical Engineers (AIChE) (2018–Present)
+- **Industry Board Member**, KIChE-US Chapter (2024–2025)
+- **Member**, American Chemical Society (ACS) (2021–Present)
