@@ -10,7 +10,7 @@ permalink: /pi/
   <tr>
     <td style="width: 220px; vertical-align: top; padding-right: 40px; border: none;">
       
-      ![Hoon Choi, Ph.D.]({{ site.baseurl }}/images/teampic/pi.jpg){style="width: 100%; max-width: 200px; border-radius: 8px;"}
+      ![Hoon Choi, Ph.D.]({{ site.baseurl }}/images/teampic/PI.jpg){style="width: 100%; max-width: 200px; border-radius: 8px;"}
 
     </td>
 
