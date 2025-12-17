@@ -19,7 +19,7 @@ permalink: /pi/
         University of Wyoming
       </p>
       <p>
-        <a href="mailto:hchoi13@uwyo.edu">hchoi13@uwyo.edu</a>
+        <a href="mailto:hchoi4@uwyo.edu">hchoi4@uwyo.edu</a>
       </p>
       <p style="font-size: 0.9em; color: #555;">
         <strong>Office:</strong> EERB building, 1114 E Bradley St, Laramie, WY 82072
@@ -35,7 +35,7 @@ permalink: /pi/
 **Assistant Professor** (2026–Present)  
 Chemical and Biomedical Engineering & School of Energy and Resources, University of Wyoming, Laramie, WY
 
-**Staff Scientist** (2022–2025)  
+**Staff Scientist - Researcher III** (2022–2025)  
 National Renewable Energy Laboratory (NREL), Golden, CO
 
 **Postdoctoral Researcher** (2020–2022)  
@@ -57,7 +57,7 @@ Yonsei University, Seoul, South Korea
 
 ### Awards and Honors
 
-- **President's Distinguished Scholar**, University of Wyoming (2026)
+- **President's Distinguished Scholar**, University of Wyoming (2026-2029)
 - **President's Award**, National Renewable Energy Laboratory (2024)
 - **Director's Award**, National Renewable Energy Laboratory (2021)
 - **Employee of the Month**, Samsung Electronics Foundry (2019)
