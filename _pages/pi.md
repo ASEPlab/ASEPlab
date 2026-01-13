@@ -22,7 +22,7 @@ permalink: /pi/
         <a href="mailto:hchoi4@uwyo.edu">hchoi4@uwyo.edu</a>
       </p>
       <p style="font-size: 0.9em; color: #555;">
-        <strong>Office:</strong> EERB building, 1114 E Bradley St, Laramie, WY 82072
+        <strong>Office:</strong> EERB 361B, 1114 E Bradley St, Laramie, WY 82072
       </p>
     </td>
   </tr>
