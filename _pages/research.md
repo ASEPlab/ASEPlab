@@ -8,28 +8,9 @@ permalink: /research/
 
 # Advanced Separation Engineering for Clean Energy Systems and Critical Resource Recovery
 
-Our research focuses on designing innovative separation processes based on modeling and experiments.
+Our research focuses on designing innovative separation processes through modeling and experimentation.
 
-We utilize a comprehensive approach across four integrated pillars, striving for advanced downstream process development for recovering critical minerals and utilizing renewable resources.
-
-<div class="core-pillars">
-    <div class="pillar">
-        <strong>Target-selective material and system design</strong> 
-    </div>
-    <div class="pillar">
-        <strong>Model-based process optimization & intensification</strong> 
-    </div>
-    <div class="pillar">
-        <strong>Robust and scalable separations</strong>
-    </div>
-    <div class="pillar">
-        <strong>Utilization of unconventional resources</strong>
-    </div>
-</div>
-
-<div class="research-figure">
-    <img src="{{ site.baseurl }}/images/research/Fig1.png" alt="Research Pillars Overview">
-</div>
+We utilize a comprehensive approach, striving to advance separation processes for recovering critical minerals and leveraging renewable resources.
 
 ## Research Interests
 
@@ -40,3 +21,8 @@ We utilize a comprehensive approach across four integrated pillars, striving for
 - Chiral Separations
 - Downstream Biorocessing
 
+## Current Research Projects
+
+- Continuous Liquid-liquid chromatography modeling and simulations
+- Ligand screening for critical mineral separations
+- 
