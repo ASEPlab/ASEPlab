@@ -158,3 +158,13 @@ h3 {
 .navbar-default .navbar-toggle:focus {
     background-color: rgba(255, 255, 255, 0.1) !important;
 }
+/* 상단 바 여백 조정 */
+.navbar-fixed-top {
+    min-height: 60px !important;
+    padding-top: 5px;
+}
+
+/* 본문이 상단 바에 가려지지 않게 간격 유지 */
+body {
+    padding-top: 80px !important;
+}
