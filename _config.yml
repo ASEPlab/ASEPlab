@@ -11,7 +11,7 @@ description: >
   and next-generation separation processes.
 
 url: "https://aseplab.github.io"
-baseurl: "/ASEPlab"
+baseurl: ""
 
 # ====================================
 # Build Settings
