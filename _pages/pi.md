@@ -25,7 +25,6 @@ permalink: /pi/
       </p>
       <p style="font-size: 0.9em; color: #555;">
         <strong>Office:</strong> EERB 361B, 1114 E Bradley St, Laramie, WY 82072
-        <strong>Tel:</strong> +1-307-766-6111
 
       </p>
     </td>
