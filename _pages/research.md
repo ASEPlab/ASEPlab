@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Advanced Separation Engineering for Clean Energy Systems and Human Well Beings
+# Advanced Separation Engineering for Clean Energy Systems and Critical Resource Recovery
 
 Our research focuses on designing innovative separation processes based on modeling and experiments.
 
@@ -33,11 +33,10 @@ We utilize a comprehensive approach across four integrated pillars, striving for
 
 ## Research Interests
 
-- Liquid phase separations
-- Adsorption & Chromatography
-- Filtration
+- Separation and Purification
+- Adsorption / Chromatography / Extraction
 - Critical Mineral Recovery
 - Natural Product Separations
-- Bioseparations
-- Downstream Processing
+- Chiral Separations
+- Downstream Biorocessing
 
