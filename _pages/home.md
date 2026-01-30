@@ -8,7 +8,7 @@ permalink: /
 
 
 
-We are a separation research group at the [Department of Chemical and Biomedical Engineering at the University of Wyoming](https://www.uwyo.edu/chemical/index.html) and [School of Energy and Resources](https://www.uwyo.edu/ser/index.html). 
+We are a separation research group at the [Department of Chemical and Biomedical Engineering at the University of Wyoming](https://www.uwyo.edu/chemical/index.html). 
 
 
 
