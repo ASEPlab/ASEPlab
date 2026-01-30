@@ -168,3 +168,28 @@ h3 {
 body {
     padding-top: 80px !important;
 }
+
+/* 1. 볼드(Bold) 텍스트에 사파이어 블루 적용 */
+/* 본문 내의 **굵은 글씨**들을 모두 통일합니다. */
+b, strong {
+    color: #0F52BA !important;
+    font-weight: 700;
+}
+
+/* 2. 모든 제목 태그 색상 통일 (H1 ~ H6) */
+h1, h2, h3, h4, h5, h6 {
+    color: #0F52BA !important;
+    font-weight: 700 !important;
+}
+
+/* 3. 리서치 페이지 등의 리스트 아이콘이나 강조 포인트 */
+li::marker {
+    color: #0F52BA; /* 리스트 앞의 점(Bullet) 색상도 통일 */
+}
+
+/* 4. Publications 등의 제목(pubtit 클래스 등)이 따로 있다면 */
+pubtit, .pubtit {
+    color: #0F52BA !important;
+    display: block;
+    margin-bottom: 5px;
+}
