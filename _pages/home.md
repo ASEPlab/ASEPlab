@@ -22,9 +22,6 @@ We strive to deliver scalable solutions that directly benefit both society and t
 
 
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_CBE.png" style="width: 200px">
-</figure>
 
 <hr>
 
