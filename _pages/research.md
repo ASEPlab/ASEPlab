@@ -29,6 +29,16 @@ We utilize a comprehensive approach, striving to advance separation processes fo
 - Chiral Separations
 - Downstream Biorocessing
 
+---
+
+## Open Source Software
+
+* **[CUP Modeler](https://github.com/NREL-SEPCON/CUPModeler)**: A Python-based tool for modeling and evaluating multi-dual mode counter-current chromatography processes.
+    * **Modeling scripts**: Hoon Choi
+    * **Interface**: Manar Alherech
+    * **Citation**: *Alherech M., Beckham G.T., & Choi H.* (2025). [Implementation and Evaluation of Multi-Dual Mode Counter-Current Chromatography in the CUP Modeler Software](https://doi.org/10.1016/j.chroma.2024.466265). *Journal of Chromatography A*, 1760, 466265.
+
+
 ## Current Research Projects
 
 - Continuous Liquid-liquid chromatography modeling and simulations
