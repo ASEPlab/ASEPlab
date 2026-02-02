@@ -6,7 +6,10 @@ sitemap: false
 permalink: /publications/
 ---
 
+
 # Publications
+
+[**Google Scholar**](https://scholar.google.com/citations?user=zIMzSekAAAAJ&hl=en) | [**ORCID**](https://orcid.org/0000-0002-2791-3788)
 
 1. Lee, M., Liang, Y., Cutherbertson, A. A., Mohamed, S. Y., Puente-Urbina, A., Michener, W. E., Miscall, J., Lincoln, C., Lahive, C. W., DesVeaux, J. S., Fastow, E. J., Winey, K. I., **Choi, H.**, Knott, B. C., Banakis, N., Allen, R. D. A., Beckham, G. T., Knauer, K. M. (2026). Extraction, purification, and reuse of dyes from coloured polyester textiles. *Nature Sustainability* 9, 96–107. [DOI](https://doi.org/10.1038/s41893-025-01686-7)
 2. Alherech, M., Beckham, G. T., & **Choi, H.*** (2025). Implementation and evaluation of multi-dual mode counter-current chromatography in the CUP Modeler software. *Journal of Chromatography A*, 466265. [DOI](https://doi.org/10.1016/j.chroma.2025.466265)
