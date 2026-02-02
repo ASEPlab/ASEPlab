@@ -38,8 +38,15 @@ We utilize a comprehensive approach, striving to advance separation processes fo
     * **Interface**: Manar Alherech
     * **Citation**: *Alherech M., Beckham G.T., & Choi H.* (2025). [Implementation and Evaluation of Multi-Dual Mode Counter-Current Chromatography in the CUP Modeler Software](https://doi.org/10.1016/j.chroma.2024.466265). *Journal of Chromatography A*, 1760, 466265.
 
+---
 
 ## Current Research Projects
 
-- Continuous Liquid-liquid chromatography modeling and simulations
-- Ligand screening for critical mineral separations
+* **Continuous Liquid-Liquid Chromatography Modeling and Simulations**
+  * We are developing novel continuous liquid-liquid chromatography platforms optimized for critical resource recovery and challenging chemical separations.
+  
+* **Ligand Screening for Critical Mineral Separations**
+  * We focus on high-selectivity ligand screening to enable efficient separation of critical minerals and apply these findings into chromatography separation platforms.
+
+
+
