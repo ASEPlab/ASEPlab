@@ -33,7 +33,7 @@ permalink: /pi/
 
 <hr>
 
-### Education and Professional Appointments
+### Professional Appointments
 
 **Assistant Professor** (2026–Present)  
 Chemical and Biomedical Engineering & School of Energy and Resources, University of Wyoming, Laramie, WY
@@ -47,6 +47,9 @@ National Renewable Energy Laboratory (NREL), Golden, CO
 **Staff Engineer** (2019)  
 Samsung Electronics Foundry, Kiheung, South Korea
 
+<hr>
+
+### Education
 **Ph.D. in Chemical Engineering** (2018)  
 Purdue University, West Lafayette, IN
 
@@ -66,16 +69,15 @@ Yonsei University, Seoul, South Korea
 - **Employee of the Month**, Samsung Electronics Foundry (2019)
 - **Hanwha Travel Grant**, AIChE Annual Meeting, Hanwha Total (2018)
 - **Moojin Science and Technology Scholarship**, Moojin Science Foundation (2012–2014)
-- **High Honors & Honors (Dean's List)**, Yonsei University (2010–2011)
 - **National Science and Engineering Full Scholarship**, Korean Student Aid Foundation (2006–2012)
 
 <hr>
 
 ### Professional and Scholarly Associations
 
+- **Member**, American Institute of Chemical Engineers (AIChE) (2018–Present)
+- **Member**, American Chemical Society (ACS) (2021–Present)
 - **Member**, DOE BETO Bioprocessing Separations Consortium (2020–2025)
 - **Member**, DOE BOTTLE Consortium (2022–2025)
 - **Member**, DOE Critical Materials Collaborative (CMC) (2024–2025)
-- **Member**, American Institute of Chemical Engineers (AIChE) (2018–Present)
 - **Industry Board Member**, KIChE-US Chapter (2024–2025)
-- **Member**, American Chemical Society (ACS) (2021–Present)
