@@ -15,6 +15,7 @@ Our research focuses on designing innovative separation processes through modeli
 
 We utilize a comprehensive approach, striving to advance separation processes for recovering critical minerals and leveraging renewable resources.
 
+![Research Scope]({{ site.baseurl }}/images/researchscope.png)
 
 
 
