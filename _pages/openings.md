@@ -25,4 +25,5 @@ If you are interested in a graduate program, please email your **CV/resume (incl
 
 
 ### Lab Recruiting Flyer
-<iframe src="{{ site.baseurl }}/images/Flyer_recruiting_HC_UW.pdf" width="90%" height="800px"></iframe>
+
+<iframe src="{{ site.baseurl }}/images/Flyer_recruiting_HC_UW.pdf#toolbar=0&navpanes=0&scrollbar=0" width="90%" height="800px" style="border: none;"></iframe>
