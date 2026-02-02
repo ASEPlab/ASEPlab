@@ -8,9 +8,16 @@ permalink: /research/
 
 # Advanced Separation Engineering for Clean Energy Systems and Critical Resource Recovery
 
+Mission: Advancing sustainable energy and critical resource recovery through innovative separation and purification technologies
+
+
 Our research focuses on designing innovative separation processes through modeling and experimentation.
 
 We utilize a comprehensive approach, striving to advance separation processes for recovering critical minerals and leveraging renewable resources.
+
+
+
+
 
 ## Research Interests
 
@@ -25,4 +32,3 @@ We utilize a comprehensive approach, striving to advance separation processes fo
 
 - Continuous Liquid-liquid chromatography modeling and simulations
 - Ligand screening for critical mineral separations
-- 
