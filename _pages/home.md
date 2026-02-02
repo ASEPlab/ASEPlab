@@ -18,7 +18,7 @@ We are a separation research group at the [Department of Chemical and Biomedical
 We strive to deliver scalable solutions that directly benefit both society and the planet by minimizing environmental impacts, accelerating the transition to clean energy systems, and advancing the frontiers of life sciences.
 
 
-
+<img src="{{ site.baseurl }}/images/ASEPlabHome.png" alt="ASEP Lab Home" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 
 
 
