@@ -11,7 +11,7 @@ permalink: /
 We are a separation science research group within the [Department of Chemical and Biomedical Engineering at the University of Wyoming](https://www.uwyo.edu/chemical/index.html). 
 
 We focus on developing energy-efficient and economically viable separation technologies to address real-world challenges. 
-Our goal is to benefit society and the environment by minimizing ecological impacts, accelerating the transition to clean energy, and advancing the frontiers of life sciences
+Our goal is to benefit society and the environment by minimizing ecological impacts, accelerating the transition to clean energy, and advancing the frontiers of life sciences.
 
 
 
