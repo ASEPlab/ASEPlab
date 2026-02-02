@@ -22,3 +22,7 @@ If you are interested in a graduate program, please email your **CV/resume (incl
 * B.S. in Chemical Engineering or a closely related engineering discipline.
 * Minimum qualifications must follow the [University of Wyoming](https://www.uwyo.edu/admissions/international/requirements-graduate.html) policy.
 
+
+
+### Lab Recruiting Flyer
+<iframe src="{{ site.baseurl }}/images/Flyer_recruiting_HC_UW.pdf" width="90%" height="800px"></iframe>
