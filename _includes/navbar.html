@@ -1,10 +1,10 @@
 <style>
 /* Navbar 전체 높이 조절 */
 .navbar {
-  min-height: 100px;  /* 전체 높이 */
+  min-height: 100px; 
 }
 .navbar-brand {
-  line-height: 100px; /* PC 높이에 맞춰 중앙 정렬 */
+  line-height: 100px;
   font-size: 28px;
   font-weight: bold;
   display: flex;
@@ -12,47 +12,23 @@
   gap: 10px;
 }
 
-/* 모바일 대응 */
+/* 모바일 대응 (768px 이하) */
 @media (max-width: 768px) {
   .navbar {
     min-height: 80px;
   }
   .navbar-brand {
     line-height: 80px;
-    font-size: 18px; /* 텍스트 크기를 약간 줄여 공간 확보 */
-    padding-left: 10px;
+    font-size: 18px;
+    padding-left: 15px; /* 로고 왼쪽 여백 확보 */
   }
   
-  /* 햄버거 버튼 위치 조정 */
   .navbar-toggle {
-    margin-right: 20px !important; /* 숫자를 키울수록 왼쪽(화면 안쪽)으로 들어옵니다 */
-    margin-top: 23px; /* 세로 중앙 정렬 조정 */
-  }
-
-  /* 컨테이너 여백 강제 조정 */
-  .container-fluid {
-    padding-right: 0; 
+    /* 햄버거 버튼을 화면 안쪽으로 살짝 밀어넣음 */
+    margin-right: 15px !important; 
+    /* 버튼 세로 중앙 정렬: (80px - 버튼높이)/2 정도 값으로 조정 */
+    margin-top: 23px; 
+    margin-bottom: 23px;
   }
 }
-
-
-      <!-- 로고 + 텍스트 -->
-      <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/images/logopic/logo_UW.png" alt="UW Logo">
-        Choi's research group
-      </a>
-    </div>
-
-    <!-- 메뉴 -->
-    <div class="collapse navbar-collapse" id="navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/pi">PI</a></li>
-        <li><a href="{{ site.baseurl }}/members">Members</a></li>
-        <li><a href="{{ site.baseurl }}/research">Research</a></li>
-        <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
-        <li><a href="{{ site.baseurl }}/vacancies">Openings</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
+</style>
