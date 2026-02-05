@@ -17,18 +17,30 @@
   .navbar {
     min-height: 80px;
   }
+
+  /* 1. 햄버거 버튼을 왼쪽으로 강제 이동 */
+  .navbar-toggle {
+    float: left !important;        /* 오른쪽이 아닌 왼쪽으로 정렬 */
+    margin-left: 15px !important;   /* 왼쪽 끝 여백 */
+    margin-right: 0 !important;
+    margin-top: 23px !important;    /* 수직 중앙 정렬 조정 */
+    margin-bottom: 23px !important;
+  }
+
+  /* 2. 로고(navbar-brand) 위치 및 정렬 조정 */
   .navbar-brand {
+    float: left !important;         /* 버튼 바로 옆에 붙도록 설정 */
     line-height: 80px;
     font-size: 18px;
-    padding-left: 15px; /* 로고 왼쪽 여백 확보 */
+    padding-left: 10px;             /* 버튼과의 간격 */
+    display: flex;
+    align-items: center;
   }
-  
-  .navbar-toggle {
-    /* 햄버거 버튼을 화면 안쪽으로 살짝 밀어넣음 */
-    margin-right: 15px !important; 
-    /* 버튼 세로 중앙 정렬: (80px - 버튼높이)/2 정도 값으로 조정 */
-    margin-top: 23px; 
-    margin-bottom: 23px;
+
+  /* 로고 이미지가 너무 크면 높이를 조절 */
+  .navbar-brand img {
+    max-height: 40px; 
+    width: auto;
   }
 }
 </style>
