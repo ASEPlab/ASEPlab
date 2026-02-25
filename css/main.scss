@@ -213,3 +213,29 @@ a:hover, a:focus {
 p a {
     font-weight: 500;
 }
+
+/* --- 모바일 상단 바 개선 (버튼 왼쪽 이동 및 클릭 최적화) --- */
+
+/* 1. 햄버거 버튼을 왼쪽으로 이동 */
+.navbar-toggle {
+    float: left !important;
+    margin-left: 15px !important;
+    margin-right: 0 !important;
+    z-index: 1001 !important; /* 다른 요소에 가려지지 않게 설정 */
+}
+
+/* 2. 로고(Brand)를 오른쪽으로 이동 */
+.navbar-brand {
+    float: right !important;
+    margin-right: 15px !important;
+}
+
+/* 3. 메뉴가 열릴 때 본문을 가리지 않도록 설정 */
+.navbar-collapse {
+    clear: both !important;
+}
+
+/* 4. 터치 영역 확보 (모바일에서 잘 눌리도록) */
+.navbar-toggle {
+    padding: 12px 10px !important;
+}
