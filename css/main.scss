@@ -3,14 +3,14 @@
     
 @import "bootstrap";
 
-img { margin-bottom: 24px; 
-     margin-top: 17px; 
-    border-radius:2%;
+img { 
+    margin-bottom: 24px; 
+    margin-top: 17px; 
+    border-radius: 2%;
 }
 
-
 body {
-	padding-top: 70px;
+    padding-top: 80px !important; /* 상단 바 높이에 맞춰 조정 */
 }
 
 figcaption {
@@ -19,45 +19,38 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
-
-/* Top navigation bar */
-
+/* --- 상단 내비게이션 바 (Top navigation bar) --- */
 
 p.byline {
-	text-align: center;
-	font-size: 18px;
-	line-height: 36px;
-	margin-top: -24px;
-	margin-bottom: 48px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 36px;
+    margin-top: -24px;
+    margin-bottom: 48px;
 }
-
 
 pubtit {
-	font-weight: bold;
-}
-
-firstp {
+    font-weight: bold;
 }
 
 .container-fluid {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 1000px; /* or 950px */
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
 }
 
 /* Home, News */
 #newsid p {
-	text-align: left;
+    text-align: left;
 }
 
 #homeidtmp h1 {
-	text-align: center;
+    text-align: center;
 }
 
 #newsid img {
-	margin-top: 6px;
-	margin-bottom: 6px;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 
 /* Team & Publications */
@@ -66,176 +59,6 @@ firstp {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
-
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
-.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-	padding-left: 16px;
-	padding-right: 16px;
-}
-
-/* Grid overrides */
-.col-sm-4 {
-	padding-left: 26px;
-	padding-right: 26px;
-}
-
-
-/* Carusel */
-
-.carousel {
-    border-radius: 3px 3px 3px 3px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
-}
-
-
-/* ======================================= */
-/* ⚠️ 사용자 정의: 제목 크기 조정 (Headings Fix) */
-/* ======================================= */
-
-/* <h1> 태그 크기 조정 (가장 큰 제목) */
-h1 {
-    font-size: 2.2em; /* 현재보다 작은 값으로 조정 (원하는 크기로 변경 가능) */
-    font-weight: 700; /* 글꼴 두께 (Bold) */
-    margin-top: 25px; 
-    margin-bottom: 20px;
-}
-
-/* <h2> 태그 크기 조정 (필요 시) */
-h2 {
-    font-size: 1.6em; 
-    font-weight: 600;
-    margin-top: 20px;
-    margin-bottom: 15px;
-}
-
-/* <h3> 태그 크기 조정 (필요 시) */
-h3 {
-    font-size: 1.25em; 
-    font-weight: 500;
-}
-
-/* --- ASeP Lab Sapphire Blue Theme --- */
-
-/* 1. 상단 바 배경 및 그림자 */
-.navbar-fixed-top, .navbar, .navbar-default {
-    background-color: #0067bc !important; /* Sapphire Blue */
-    border: none !important;              /* 모든 테두리 제거 */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important; /* 은은한 그림자 */
-}
-
-/* 2. 상단 메뉴 글자색 (흰색으로 변경) */
-.navbar-default .navbar-nav > li > a, 
-.navbar-default .navbar-brand {
-    color: #FFFFFF !important;
-    font-weight: 500 !important;
-    transition: all 0.3s ease;
-}
-
-/* 3. 마우스 올렸을 때 효과 (밝은 하늘색) */
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-brand:hover {
-    color: #B2E2F2 !important;
-    background-color: transparent !important;
-}
-
-/* 4. 현재 활성화된 페이지 메뉴 강조 */
-.navbar-default .navbar-nav > .active > a, 
-.navbar-default .navbar-nav > .active > a:hover, 
-.navbar-default .navbar-nav > .active > a:focus {
-    color: #FFD700 !important; /* 활성화된 메뉴는 금색 */
-    background-color: rgba(255, 255, 255, 0.1) !important;
-}
-
-/* 5. 모바일 메뉴 아이콘(햄버거 버튼) 색상 화이트로 */
-.navbar-default .navbar-toggle .icon-bar {
-    background-color: #FFFFFF !important;
-}
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-    background-color: rgba(255, 255, 255, 0.1) !important;
-}
-/* 상단 바 여백 조정 */
-.navbar-fixed-top {
-    min-height: 60px !important;
-    padding-top: 5px;
-}
-
-/* 본문이 상단 바에 가려지지 않게 간격 유지 */
-body {
-    padding-top: 80px !important;
-}
-
-/* 1. 볼드(Bold) 텍스트: 본문과 같은 짙은 회색으로 설정 */
-b, strong {
-    color: #333333 !important;
-    font-weight: 700;
-}
-
-/* 2. 모든 제목 태그 색상: 본문과 같은 짙은 회색으로 통일 */
-h1, h2, h3, h4, h5, h6 {
-    color: #333333 !important; /* 파란색(#0F52BA)에서 본문색으로 변경 */
-    font-weight: 700 !important;
-}
-
-/* 3. 리스트 아이콘(Bullet) 색상 조정 */
-li::marker {
-    color: #333333; /* 점 색상도 본문색에 맞춤 */
-}
-
-/* 4. Publications 제목 등 커스텀 클래스 */
-pubtit, .pubtit {
-    color: #333333 !important; /* 파란색에서 본문색으로 변경 */
-    display: block;
-    margin-bottom: 5px;
-}
-
-/* --- 링크 접근성(Accessibility) 강화 설정 --- */
-
-/* 1. 일반 링크: 흰색 배경에서 대비가 확실한 짙은 파란색 (#004a99) */
-a {
-    color: #004a99 !important; 
-    text-decoration: underline !important; /* 접근성 핵심: 색맹 사용자도 링크임을 알 수 있게 밑줄 유지 */
-    transition: color 0.2s ease-in-out;
-}
-
-/* 2. 마우스를 올렸을 때: 더 짙은 색으로 변하며 강조 */
-a:hover, a:focus {
-    color: #002a52 !important;
-    text-decoration: none !important; /* 호버 시에는 밑줄 제거로 피드백 제공 */
-    outline: 2px solid #FFD700; /* 키보드 탭 이동 시 포커스 표시 (접근성 권장) */
-}
-
-/* 3. 본문 내 강조 링크 (선택 사항) */
-p a {
-    font-weight: 500;
-}
-
-/* --- 모바일 상단 바 개선 (버튼 왼쪽 이동 및 클릭 최적화) --- */
-
-/* 1. 햄버거 버튼을 왼쪽으로 이동 */
-.navbar-toggle {
-    float: left !important;
-    margin-left: 15px !important;
-    margin-right: 0 !important;
-    z-index: 1001 !important; /* 다른 요소에 가려지지 않게 설정 */
-}
-
-/* 2. 로고(Brand)를 오른쪽으로 이동 */
-.navbar-brand {
-    float: right !important;
-    margin-right: 15px !important;
-}
-
-/* 3. 메뉴가 열릴 때 본문을 가리지 않도록 설정 */
-.navbar-collapse {
-    clear: both !important;
-}
-
-/* 4. 터치 영역 확보 (모바일에서 잘 눌리도록) */
-.navbar-toggle {
-    padding: 12px 10px !important;
-}
+.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-
