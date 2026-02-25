@@ -192,3 +192,24 @@ pubtit, .pubtit {
     display: block;
     margin-bottom: 5px;
 }
+
+/* --- 링크 접근성(Accessibility) 강화 설정 --- */
+
+/* 1. 일반 링크: 흰색 배경에서 대비가 확실한 짙은 파란색 (#004a99) */
+a {
+    color: #004a99 !important; 
+    text-decoration: underline !important; /* 접근성 핵심: 색맹 사용자도 링크임을 알 수 있게 밑줄 유지 */
+    transition: color 0.2s ease-in-out;
+}
+
+/* 2. 마우스를 올렸을 때: 더 짙은 색으로 변하며 강조 */
+a:hover, a:focus {
+    color: #002a52 !important;
+    text-decoration: none !important; /* 호버 시에는 밑줄 제거로 피드백 제공 */
+    outline: 2px solid #FFD700; /* 키보드 탭 이동 시 포커스 표시 (접근성 권장) */
+}
+
+/* 3. 본문 내 강조 링크 (선택 사항) */
+p a {
+    font-weight: 500;
+}
