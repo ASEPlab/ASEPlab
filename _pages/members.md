@@ -34,7 +34,7 @@ permalink: /members/
 <table style="width: 100%; border: none; margin-bottom: 25px;">
   <tr>
     <td style="width: 220px; vertical-align: top; padding-right: 40px; border: none;">
-      <img src="{{ site.baseurl }}/images/teampic/Mohammed.png" alt="Mohammed" style="width: 100%; max-width: 200px; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/images/teampic/Mohammed.jpg" alt="Mohammed" style="width: 100%; max-width: 200px; border-radius: 8px;">
     </td>
     <td style="vertical-align: top; border: none;">
       <h3>Mohammed Abdul-Rahman </h3>
