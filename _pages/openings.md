@@ -16,7 +16,7 @@ You will have the chance to work on the challenges in the real world, requiring 
 
 -->
 
-### Positions are pending.
+### Positions are currently filled, but we are always happy to review strong applications for future openings. If you are interested in joining our group, please feel free to send your CV/resume (including GPA) to Prof. Choi
 
 
 
@@ -27,8 +27,9 @@ If you are interested in a graduate program, please email your **CV/resume (incl
 * B.S. in Chemical Engineering or a closely related engineering discipline.
 * Minimum qualifications must follow the [University of Wyoming](https://www.uwyo.edu/admissions/international/requirements-graduate.html) policy.
 
-
+<!--
 
 ### Lab Recruiting Flyer
 
 <iframe src="{{ site.baseurl }}/images/Flyer_recruiting_HC_UW.pdf#toolbar=0&navpanes=0&scrollbar=0" width="90%" height="800px" style="border: none;"></iframe>
+-->
